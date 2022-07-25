@@ -1,5 +1,5 @@
 # imdb-india-cast-crawler
-Crawler for IMDB india cast data
+Crawler for IMDB India Bollywood cast data.
 
 Run the following command for crawling movie links:
 
